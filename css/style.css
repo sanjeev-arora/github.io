@@ -275,10 +275,10 @@ h1, h2, h3, h4, h5,
   .site-navbar .site-logo {
     position: relative;
     left: 0;
-    font-size: 1.7rem;
-    font-weight: 900;
-    text-transform: uppercase;
-    font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+    font-size: 2rem;
+    font-weight: 600;
+    text-transform: lowercase;
+    font-family: Playfair Display; }
   .site-navbar .site-navigation .site-menu {
     margin-bottom: 0; }
     .site-navbar .site-navigation .site-menu .active {
